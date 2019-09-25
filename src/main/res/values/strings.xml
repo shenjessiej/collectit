@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Collect It Application</string>
+
+    <string name="hello_world">Welcome to Collect It!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_adddata">adddata</string>
+    <string name="sampledata">Date: 06/03/2017</string>
+    <string name="sampledata2">Rainfall: 2 inches</string>
+    <string name="sampledata3">Water Temperature: Not entered</string>
+    <string name="sampledata4">Turbidity: Not entered</string>
+    <string name="sampledata5">pH: 7.0</string>
+    <string name="sampledata6">Dissolved Oxygen: Not entered</string>
+
+</resources>
